@@ -1,0 +1,1 @@
+A front-end part for the reddit application built on Angular 9
